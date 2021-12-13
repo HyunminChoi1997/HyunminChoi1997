@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @HyunminChoi1997 (Hyunmin Harry Choi)
+- 👀 I’m interested in Golf / Work Out / Coding
+- 🌱 I’m currently learning Front End \ Back End Programming // HTML CSS JavaScript ||
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me chlgusals3@gmail.com
+
+
+<!---
+HyunminChoi1997/HyunminChoi1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
