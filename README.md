@@ -21,7 +21,7 @@ Some Markdown keywords~~
 **Bold** (Surrounded by double *)
 
 
-('''js ''') [but tilted ']
+('''js ''') (but tilted ')
 ```js
 int x = 100;
 for(int i = 0; i < x ; i++){
