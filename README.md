@@ -12,7 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 
 #Font Size (Through #)
+
 *Italicize* (Surrounded by *)
+
 **Bold** (Surrounded by double *)
 
 ```js
