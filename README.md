@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-#Font Size (Through #)
+# Font Size (Through #)
 
 *Italicize* (Surrounded by *)
 
