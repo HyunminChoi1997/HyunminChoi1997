@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HyunminChoi1997 (Hyunmin Harry Choi)
 - 👀 I’m interested in Golf / Work Out / Games / Coding
-- 🌱 I’m currently learning Front End \ Back End Programming // HTML CSS JavaScript || (Learned Java The Most) (Python C C++ (Basic))
+- 🌱 I’m currently learning Front End \ Back End Programming // HTML CSS JavaScript ;;; (Learned Java The Most) (Python C C++ (Basic))
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chlgusals3@gmail.com
 
