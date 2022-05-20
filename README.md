@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HyunminChoi1997 (Hyunmin Harry Choi)
 - 👀 I’m interested in Golf / Work Out / Games / Coding
-- 🌱 I’m Learned ... 
-- JavaScript, React, Node.js through Coding BootCamp course (2021-12 ~ 2022-05)
-- Took prerequisite courses for CS major from UCSD (Learned Java the most)
+- 🌱 I’ve Learned ... 
+  - JavaScript, React, Node.js through Coding BootCamp course (2021-12 ~ 2022-05)
+  - Took prerequisite courses for CS major from UCSD (Learned Java the most)
 
 
 
