@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/grinning-face-with-big-eyes.gif" height="40" width="40" align="center" /> WELCOME
+## <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/grinning-face-with-big-eyes.gif" height="40" width="40" align="center" /> [WELCOME](https://www.fatfobcodes.ml)
 ---
 ##
 ## <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/thinking-face.gif" height="40" width="40" align="center" /> AboutMe
